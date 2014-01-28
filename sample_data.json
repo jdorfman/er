@@ -91,7 +91,7 @@
                 "s1": 7,
                 "s4": 2
             },
-            "pelc__symbiotallc__netdna-cdn__com": {
+            "pelc__examplealias__netdna-cdn__com": {
                 "20": 12,
                 "2x": 12,
                 "34": 6,
@@ -287,7 +287,7 @@
                     "s1": 7,
                     "s4": 2
                 },
-                "pelc__symbiotallc__netdna-cdn__com": {
+                "pelc__examplealias__netdna-cdn__com": {
                     "20": 12,
                     "2x": 12,
                     "34": 6,
@@ -378,7 +378,7 @@
                             "s1": 5,
                             "s4": 1
                         },
-                        "pelc__symbiotallc__netdna-cdn__com": {
+                        "pelc__examplealias__netdna-cdn__com": {
                             "20": 10,
                             "2x": 10,
                             "by": 509504,
@@ -541,7 +541,7 @@
                             "s0": 2,
                             "s4": 1
                         },
-                        "pelc__symbiotallc__netdna-cdn__com": {
+                        "pelc__examplealias__netdna-cdn__com": {
                             "20": 2,
                             "2x": 2,
                             "34": 6,
